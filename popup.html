@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      width: 200px;
+      padding: 10px;
+      margin: 0;
+      font-family: system-ui;
+    }
+
+    @media (prefers-color-scheme: light) {
+      body {
+        background: #ffffff;
+        color: #000000;
+      }
+      input {
+        background: #f0f0f0;
+        border: 1px solid #ccc;
+        color: #000000;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #292a2d;
+        color: #ffffff;
+      }
+      input {
+        background: #3b3b3d;
+        border: 1px solid #5f6368;
+        color: #ffffff;
+      }
+    }
+
+    .setting {
+      margin: 10px 0;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-size: 14px;
+    }
+
+    input {
+      width: 100%;
+      padding: 5px;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #8ab4f8;
+    }
+  </style>
+</head>
+<body>
+  <div class="setting">
+    <label for="maxWidth">Preview Width (px):</label>
+    <input type="number" id="maxWidth" min="100" max="800" step="10">
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
