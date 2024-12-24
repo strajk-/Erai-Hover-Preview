@@ -14,6 +14,6 @@
 ### Description
 This extension enhances your browsing experience by displaying hover preview images of anime posters.
 
-Simply hover over links to anime lists, and a preview will appear.
+Simply hover over anime titles on the front page or in lists, and a preview will appear.
 
 ![Example of Hover Preview](./assets/hover-preview-example.png)
