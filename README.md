@@ -1,6 +1,6 @@
 ## Erai Hover Preview
 
-**As of 22.12.24, Erai has introduced their own Poster on Hover feature, which can be enabled in the user settings. This makes this extension largely redundant.**
+**As of [22.12.24](https://www.erai-raws.info/news/a-new-method-to-generate-a-custom-rss-feed-link/#:~:text=Update%20(Dec%2022%2C%202024)%3A), Erai has introduced their own Poster on Hover feature, which can be enabled in the [user settings](https://www.erai-raws.info/wp-admin/profile.php#:~:text=Extra%20Profile%20Options-,Hovering%20Anime%20Posters,-(Posts)). This makes this extension largely redundant.**
 
 ---
 
