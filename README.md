@@ -12,7 +12,7 @@
 ---
 
 ### Description
-This extension enhances your browsing experience by displaying hover preview images of anime posters.
+This extension enhances your browsing experience by displaying hover preview images of anime posters in Erai-raws.
 
 Simply hover over anime titles on the front page or in lists, and a preview will appear.
 
