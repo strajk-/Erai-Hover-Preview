@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Anime Hover Preview",
+  "name": "Erai Hover Preview",
   "description": "Shows anime poster previews when hovering over titles on Erai-raws",
   "version": "1.0",
   "permissions": ["storage"],
