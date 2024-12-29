@@ -17,3 +17,8 @@ This extension enhances your browsing experience by displaying hover preview ima
 Simply hover over anime titles on the front page or in lists, and a preview will appear.
 
 ![Example of Hover Preview](./assets/hover-preview-example.png)
+
+---
+
+### Get the Extension  
+You can install the extension directly from the official [Chrome Web Store](https://chromewebstore.google.com/detail/erai-hover-preview/ifkheeinonieljcicbcogldegijelogk).  
